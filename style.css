@@ -1,1 +1,15 @@
-@import "tailwindcss"
+@import "tailwindcss";
+
+/* utility Css  */
+.black {
+    color: #252432;
+}
+.white{
+    color: #8987A1;
+}
+.orange{
+    color: #E95A08;
+}
+@media screen and (max-width: 576px) {
+   
+}
