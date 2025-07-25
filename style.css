@@ -26,6 +26,15 @@
     color: #E95A08;
 }
 
+/* footer start  */
+footer ul li {
+  margin-bottom: 32px;
+}
+footer ul li a {
+  color: #6B7280;
+}
+/* footer END */
+
 
 @media screen and (max-width: 576px) {
    
