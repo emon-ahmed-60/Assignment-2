@@ -26,6 +26,16 @@
     color: #E95A08;
 }
 
+/* challange section Start */
+.trusted-badge{
+  position: absolute;
+  top: 5%;
+  left: 45%;
+  transform: translate(-50%,-55%);
+}
+/* challange section END */
+
+
 /* footer start  */
 footer ul li {
   margin-bottom: 32px;
